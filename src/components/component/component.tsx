@@ -40,7 +40,7 @@ import {
   NumpyLogo,
   GithubLogo,
   LinuxLogo,
-  VisualStudioILogo,
+  VisualStudioLogo,
   GitLogo,
   NextjsLogo,
   DatabaseIcon,
@@ -209,7 +209,7 @@ export function Component() {
                 </div>
               </div>
               <div className="flex flex-col justify-center space-y-4">
-                <img
+                <Image
                   src="https://utfs.io/f/sr1WqVUf52DPCLD0SrcF5FcvLWuht3lzYNgOqZfbGAwx6KIQ"
                   width={550}
                   height={310}
@@ -249,10 +249,11 @@ export function Component() {
                 </h2>
                 <p className="max-w-[1000px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                   As a software developer, I have a diverse set of skills that
-                  allow me to tackle a wide range of web development projects.
-                  I'm proficient in both front-end and back-end technologies,
-                  and I'm always eager to learn new frameworks and tools to
-                  improve my craft.
+                  allow me to tackle a wide range of development projects. I'm
+                  proficient in multiple languages and many popular technologies
+                  for web development, data analysis, and product management. I
+                  am always eager to learn new frameworks and tools to improve
+                  my ability.
                 </p>
               </div>
             </div>
@@ -328,7 +329,7 @@ export function Component() {
                     <span>Github</span>
                   </li>
                   <li className="flex items-center gap-2">
-                    <VisualStudioILogo className="h-6 w-6" />
+                    <VisualStudioLogo className="h-6 w-6" />
                     <span>Visual Studio</span>
                   </li>
                   <li className="flex items-center gap-2">
