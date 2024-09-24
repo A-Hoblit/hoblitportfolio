@@ -243,7 +243,7 @@ export function NextjsLogo(props: React.SVGProps<SVGSVGElement>) {
   );
 }
 
-export function CodeIcon(props: any) {
+export function CodeIcon(props: React.SVGProps<SVGSVGElement>) {
   return (
     <svg
       {...props}
@@ -263,7 +263,7 @@ export function CodeIcon(props: any) {
   );
 }
 
-export function CodepenIcon(props: any) {
+export function CodepenIcon(props: React.SVGProps<SVGSVGElement>) {
   return (
     <svg
       {...props}
@@ -286,7 +286,7 @@ export function CodepenIcon(props: any) {
   );
 }
 
-export function DatabaseIcon(props: any) {
+export function DatabaseIcon(props: React.SVGProps<SVGSVGElement>) {
   return (
     <svg
       {...props}
