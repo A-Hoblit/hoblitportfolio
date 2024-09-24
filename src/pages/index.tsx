@@ -4,6 +4,11 @@ import { Component } from "~/components/component/component";
 
 export default function Home() {
   return (
-      <Component/>
+    <div>
+      <Head>
+        <title>Andrew Hoblit</title>
+      </Head>
+      <Component />
+    </div>
   );
 }
