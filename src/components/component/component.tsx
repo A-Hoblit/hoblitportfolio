@@ -91,7 +91,7 @@ export function Component() {
                 src="https://utfs.io/f/sr1WqVUf52DPk32GLK6bqwNcJk4SxE7POgtLiQ3alUYW8oeV"
                 width={600}
                 height={600}
-                alt="John Doe"
+                alt="Andrew in Alaska"
                 className="mx-auto aspect-square overflow-hidden rounded-xl object-cover"
               />
             </div>
