@@ -117,7 +117,7 @@ export function Component() {
             </div>
             <div className="mx-auto grid max-w-5xl items-center gap-8 py-12 lg:grid-cols-2 lg:gap-12">
               <div className="flex flex-col justify-center space-y-4">
-                <img
+                <Image
                   src="https://utfs.io/f/sr1WqVUf52DP7oCsbLLtECmbs5yXoUaVkvIiuWgAZ32RwMfq"
                   width={550}
                   height={310}
@@ -146,7 +146,7 @@ export function Component() {
                 </div>
               </div>
               <div className="flex flex-col justify-center space-y-4">
-                <img
+                <Image
                   src="https://utfs.io/f/sr1WqVUf52DPT0Do48s5McA3EzG4KjdShvrl98COseyWJYtq"
                   width={550}
                   height={310}
@@ -176,7 +176,7 @@ export function Component() {
                 </div>
               </div>
               <div className="flex flex-col justify-center space-y-4">
-                <img
+                <Image
                   src="https://utfs.io/f/sr1WqVUf52DP9TgyXr1vs8TmdCOSG6RJyfebNYFzMcKn2xZP"
                   width={550}
                   height={310}
